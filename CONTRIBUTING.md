@@ -98,12 +98,12 @@ For example you could write words as **bold** (`**bold**`), or in _italics_ (`_i
 Also when writing in Markdown, please start each new sentence on a new line.	
 While this formats in the same way as if the new line wasn't included, it makes the [diffs produced during the pull request](https://help.github.com/en/articles/about-comparing-branches-in-pull-requests) review easier to read! :sparkles:
 
-
 ## Where to start: issues
 
 Before you open a new issue, please check if any of our [open issues](https://github.com/alan-turing-institute/the-turing-way/issues) covers your idea already.
-If you open a new issue, please follow our basic guidelines laid out in our [issue template](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/ISSUE_TEMPLATE.md).
-The issue template will automatically be rendered in the comment section of the new issue page, so all you need to do is edit the "_Lorem ipsum_" sections.
+If you open a new issue, please follow our basic guidelines laid out in our [issue templates](https://github.com/alan-turing-institute/the-turing-way/blob/master/.github/ISSUE_TEMPLATE).
+You can choose to propose [a new chapter](https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&template=CHAPTER_ISSUE_TEMPLATE.md) or [a general issue](https://github.com/alan-turing-institute/the-turing-way/issues/new?assignees=&template=ISSUE_TEMPLATE.md).
+The issue templates will automatically be rendered in the comment section of the new issue page, so all you need to do is edit the "_Lorem ipsum_" sections.
 
 ### Issue labels
 
