@@ -7,6 +7,8 @@ TESTING
 
 {% cite holdgraf_evidence_2014 }
 
+{% cite Wilkinson2016fair }
+
 ## Table of contents
 
 1. [Why reproducibility is important for science](01/importantforscience)
