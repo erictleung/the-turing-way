@@ -3,9 +3,13 @@
 ## Prerequisites / recommended skill level
 No previous knowledge needed.
 
-TESTING
+TESTING REFERENCES
+
+From inner bib:
 
 {% cite holdgraf_evidence_2014 }
+
+From outer bib:
 
 {% cite Wilkinson2016fair }
 
